@@ -1,29 +1,29 @@
 # Compiled Object files
-UE_Projet1/*.slo
-UE_Projet1/*.lo
-UE_Projet1/*.o
-UE_Projet1/*.obj
+EscapeRoom/*.slo
+EscapeRoom/*.lo
+EscapeRoom/*.o
+EscapeRoom/*.obj
 
 # Precompiled Headers
-UE_Projet1/*.gch
-UE_Projet1/*.pch
+EscapeRoom/*.gch
+EscapeRoom/*.pch
 
 # Compiled Dynamic libraries
-UE_Projet1/*.so
-UE_Projet1/*.dylib
-UE_Projet1/*.dll
+EscapeRoom/*.so
+EscapeRoom/*.dylib
+EscapeRoom/*.dll
 
 # Fortran module files
-UE_Projet1/*.mod
-UE_Projet1/*.smod
+EscapeRoom/*.mod
+EscapeRoom/*.smod
 
 # Compiled Static libraries
-UE_Projet1/*.lai
-UE_Projet1/*.la
-UE_Projet1/*.a
-UE_Projet1/*.lib
+EscapeRoom/*.lai
+EscapeRoom/*.la
+EscapeRoom/*.a
+EscapeRoom/*.lib
 
 # Executables
-UE_Projet1/*.exe
-UE_Projet1/*.out
-UE_Projet1/*.app
+EscapeRoom/*.exe
+EscapeRoom/*.out
+EscapeRoom/*.app
