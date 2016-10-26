@@ -1,0 +1,29 @@
+# Compiled Object files
+UE_Projet1/*.slo
+UE_Projet1/*.lo
+UE_Projet1/*.o
+UE_Projet1/*.obj
+
+# Precompiled Headers
+UE_Projet1/*.gch
+UE_Projet1/*.pch
+
+# Compiled Dynamic libraries
+UE_Projet1/*.so
+UE_Projet1/*.dylib
+UE_Projet1/*.dll
+
+# Fortran module files
+UE_Projet1/*.mod
+UE_Projet1/*.smod
+
+# Compiled Static libraries
+UE_Projet1/*.lai
+UE_Projet1/*.la
+UE_Projet1/*.a
+UE_Projet1/*.lib
+
+# Executables
+UE_Projet1/*.exe
+UE_Projet1/*.out
+UE_Projet1/*.app
